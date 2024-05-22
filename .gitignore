@@ -1,0 +1,10 @@
+# ignore
+.*
+__pycache__
+result_out/
+test_data/
+deprecated/
+test/
+cpp/*.so
+*.pyc
+!.gitignore
